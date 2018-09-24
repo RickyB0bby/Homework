@@ -1,0 +1,10 @@
+How do i turn on my computer?
+-Hit the power button-
+
+How do i create a new file?
+- type touch (then the name of the file) -
+
+How do you make a new directory?
+- type mkdir (then the name of the directory) -
+
+Congrats! you did it!
